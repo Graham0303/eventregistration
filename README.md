@@ -3,17 +3,6 @@
 ## AIM:
 To create a UX design and develop a web application for event registration.
 
-
-## DESIGN SCREENS:
-![output](./static/img/design.png)
-
-
-## WIREFRAME:
-![output](./static/img/wireframe.png)
-
-## PROTOTYPE:
-![output](./static/img/prototype.png)
-
 ## PROGRAM:
 ### HOME.HTML
 ```
